@@ -1,0 +1,14 @@
+body {
+  background-color: blanchedalmond;
+}
+.class-1 {
+  background-color: aqua;
+  border: 5px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
+.class-2 {
+  background-color: aquamarine;
+  border: 5px solid blue;
+  margin: 10px;
+}
