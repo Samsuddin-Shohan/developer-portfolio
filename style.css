@@ -1,14 +1,6 @@
 body {
-  background-color: blanchedalmond;
+  font-family: "Poppins", sans-serif;
 }
-.class-1 {
-  background-color: aqua;
-  border: 5px solid blue;
-  margin: 10px;
-  padding: 10px;
-}
-.class-2 {
-  background-color: aquamarine;
-  border: 5px solid blue;
-  margin: 10px;
+.name-oreange {
+  color: orange;
 }
