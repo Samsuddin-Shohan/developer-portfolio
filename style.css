@@ -32,3 +32,8 @@ section {
   background-repeat: no-repeat;
   background-position: right;
 }
+.flexible-content {
+  display: flex;
+}
+.experiences h1 {
+}
