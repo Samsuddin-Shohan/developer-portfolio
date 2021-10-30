@@ -33,5 +33,32 @@ body {
 .flexible-content {
   display: flex;
 }
-.experiences h1 {
+.experiences-area {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+}
+
+.experiences {
+  background-image: url(images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding-bottom: 5%;
+}
+#learnig-experience {
+  border-left: 7px solid;
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1;
+}
+
+#web-dev-experience {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+footer p {
+  text-align: center;
 }
